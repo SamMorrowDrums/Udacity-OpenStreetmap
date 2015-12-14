@@ -1,0 +1,7 @@
+References:
+
+https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Formatting
+http://stackoverflow.com/questions/164979/uk-postcode-regex-comprehensive/17507615#17507615
+http://wiki.openstreetmap.org/wiki/Key:addr:flats
+http://wiki.openstreetmap.org/wiki/Addresses#Buildings_with_multiple_house_numbers
+
